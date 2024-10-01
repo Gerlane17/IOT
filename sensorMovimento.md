@@ -7,6 +7,8 @@ Componentes Usados
 Montagem do Circuito
 Imagem do Circuito
 
+![Imagem do Circuito](sensorMovimento.png)
+
 Explicação do código
 int sensorPIR = 3; // Define o pino 3 para conectar o sensor PIR (sensor de movimento)
 int buzzer = 5;    // Define o pino 5 para conectar o buzzer (dispositivo sonoro)
